@@ -1,0 +1,33 @@
+[submodule "remarkable-git"]
+	path = remarkable-git
+	url = ssh://aur@aur.archlinux.org/remarkable-git.git
+[submodule "abi-compliance-checker"]
+	path = abi-compliance-checker
+	url = ssh://aur@aur.archlinux.org/abi-compliance-checker.git
+[submodule "abi-dumper"]
+	path = abi-dumper
+	url = ssh://aur@aur.archlinux.org/abi-dumper.git
+[submodule "gitextensions"]
+	path = gitextensions
+	url = ssh://aur@aur.archlinux.org/gitextensions.git
+[submodule "ncurses-nohex"]
+	path = ncurses-nohex
+	url = ssh://aur@aur.archlinux.org/ncurses-nohex.git
+[submodule "neovim-gtk"]
+	path = neovim-gtk
+	url = ssh://aur@aur.archlinux.org/neovim-gtk.git
+[submodule "remarkable"]
+	path = remarkable
+	url = ssh://aur@aur.archlinux.org/remarkable.git
+[submodule "scala211"]
+	path = scala211
+	url = ssh://aur@aur.archlinux.org/scala211.git
+[submodule "ttcp"]
+	path = ttcp
+	url = ssh://aur@aur.archlinux.org/ttcp.git
+[submodule "vtable-dumper"]
+	path = vtable-dumper
+	url = ssh://aur@aur.archlinux.org/vtable-dumper.git
+[submodule "xcursor-maia"]
+	path = xcursor-maia
+	url = ssh://aur@aur.archlinux.org/xcursor-maia.git
