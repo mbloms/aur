@@ -31,3 +31,6 @@
 [submodule "xcursor-maia"]
 	path = xcursor-maia
 	url = ssh://aur@aur.archlinux.org/xcursor-maia.git
+[submodule "gwen-web"]
+	path = gwen-web
+	url = ssh://aur@aur.archlinux.org/gwen-web.git
