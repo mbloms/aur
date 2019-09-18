@@ -31,6 +31,21 @@
 [submodule "xcursor-maia"]
 	path = xcursor-maia
 	url = ssh://aur@aur.archlinux.org/xcursor-maia.git
-[submodule "gwen-web"]
-	path = gwen-web
-	url = ssh://aur@aur.archlinux.org/gwen-web.git
+[submodule "futhark-git"]
+	path = futhark-git
+	url = ssh://aur@aur.archlinux.org/futhark-git.git
+[submodule "futhark"]
+	path = futhark
+	url = ssh://aur@aur.archlinux.org/futhark.git
+[submodule "futhark-nightly"]
+	path = futhark-nightly
+	url = ssh://aur@aur.archlinux.org/futhark-nightly.git
+[submodule "scala-dotty"]
+	path = scala-dotty
+	url = ssh://aur@aur.archlinux.org/scala-dotty.git
+[submodule "svgbob-git"]
+	path = svgbob-git
+	url = ssh://aur@aur.archlinux.org/svgbob-git.git
+[submodule "adbfs-rootless-git"]
+	path = adbfs-rootless-git
+	url = ssh://aur@aur.archlinux.org/adbfs-rootless-git.git
