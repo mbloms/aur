@@ -7,9 +7,6 @@
 [submodule "abi-dumper"]
 	path = abi-dumper
 	url = ssh://aur@aur.archlinux.org/abi-dumper.git
-[submodule "gitextensions"]
-	path = gitextensions
-	url = ssh://aur@aur.archlinux.org/gitextensions.git
 [submodule "ncurses-nohex"]
 	path = ncurses-nohex
 	url = ssh://aur@aur.archlinux.org/ncurses-nohex.git
