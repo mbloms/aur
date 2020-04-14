@@ -16,6 +16,7 @@
 [submodule "remarkable"]
 	path = remarkable
 	url = ssh://aur@aur.archlinux.org/remarkable.git
+	ignore = untracked
 [submodule "scala211"]
 	path = scala211
 	url = ssh://aur@aur.archlinux.org/scala211.git
@@ -46,3 +47,5 @@
 [submodule "adbfs-rootless-git"]
 	path = adbfs-rootless-git
 	url = ssh://aur@aur.archlinux.org/adbfs-rootless-git.git
+[submodule "*"]
+	ignore = untracked

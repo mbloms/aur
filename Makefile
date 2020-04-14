@@ -8,6 +8,7 @@ pwd=$(shell pwd)
 	echo "\$$(pkg): $*/PKGBUILD" >> $@
 	echo -e "\tcd $* && ${makepkg}" >> $@
 	echo "$*: \$$(pkg)" >> $@
+	git config submodule.$*.ignore dirty
 
 include $(shell for pkg in */PKGBUILD; do echo $${pkg%/PKGBUILD}.mk; done)
 
