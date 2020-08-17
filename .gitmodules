@@ -49,3 +49,6 @@
 	url = ssh://aur@aur.archlinux.org/adbfs-rootless-git.git
 [submodule "*"]
 	ignore = untracked
+[submodule "dduper-bin"]
+	path = dduper-bin
+	url = ./dduper-bin
