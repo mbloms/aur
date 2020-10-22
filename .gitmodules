@@ -32,6 +32,9 @@
 [submodule "futhark-git"]
 	path = futhark-git
 	url = ssh://aur@aur.archlinux.org/futhark-git.git
+[submodule "futhark-bin"]
+	path = futhark-bin
+	url = ssh://aur@aur.archlinux.org/futhark-bin.git
 [submodule "futhark"]
 	path = futhark
 	url = ssh://aur@aur.archlinux.org/futhark.git
@@ -47,8 +50,6 @@
 [submodule "adbfs-rootless-git"]
 	path = adbfs-rootless-git
 	url = ssh://aur@aur.archlinux.org/adbfs-rootless-git.git
-[submodule "*"]
-	ignore = untracked
 [submodule "dduper-bin"]
 	path = dduper-bin
-	url = ./dduper-bin
+	url = ssh://aur@aur.archlinux.org/dduper-bin.git
