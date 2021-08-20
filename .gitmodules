@@ -53,3 +53,6 @@
 [submodule "dduper-bin"]
 	path = dduper-bin
 	url = ssh://aur@aur.archlinux.org/dduper-bin.git
+[submodule "solarwallet"]
+	path = solarwallet
+	url = ssh://aur@aur.archlinux.org/solarwallet.git
